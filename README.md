@@ -1,1 +1,1 @@
-# meu-c
+# meu-curriculo
